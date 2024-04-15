@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chrome-aws-lambda": "^2.0.0",
-    "puppeteer-core": "^2.0.0"
+     "@sparticuz/chrome-aws-lambda": "17.1.3",
+    "puppeteer-core": "^10.4.0"
   },
   "devDependencies": {
     "puppeteer": "^2.0.0"
