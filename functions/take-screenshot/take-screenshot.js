@@ -1,4 +1,5 @@
 const chromium = require("@sparticuz/chromium");
+const puppeteer = require("puppeteer-core");
 
 exports.handler = async (event, context) => {
 
