@@ -1,4 +1,4 @@
-const chromium = require("@sparticuz/chromium");
+const chromium = require("@sparticuz/chrome-aws-lambda");
 
 exports.handler = async (event, context) => {
 
